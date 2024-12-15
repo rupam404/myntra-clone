@@ -37,7 +37,7 @@
   #product-modal{
     position:fixed;
     z-index:1000;
-    width:98%;
+    width:97%;
     top: 20%;
     left: 1%;
     background:#ededed;
